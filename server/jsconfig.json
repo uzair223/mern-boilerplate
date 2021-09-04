@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "allowSyntheticDefaultImports": false,
+    "baseUrl": ".",
+    "paths": {
+      "~/*": ["./src/*"],
+      "@user/*": ["./src/api.user/*"],
+      "@auth/*": ["./src/api.auth/*"],
+      "httperror": ["./src/utils/Errors"],
+      "ash": ["./src/utils/AsyncHandler"]
+    }
+  },
+  "exclude": ["node_modules", "dist"]
+}

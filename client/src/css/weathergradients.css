@@ -1,0 +1,14 @@
+.day { background: linear-gradient(to top, #2d91c2 0%,#1e528e 100%); }
+.night { background: linear-gradient(to top, #515175 0%,#20202c 100%); }
+.morning { background: linear-gradient(to top, #82addb 0%,#ebb2b1 100%); }
+.evening { background: linear-gradient(to top, #40405c 0%,#6f71aa 80%,#8a76ab 100%); }
+
+.sunny { background: linear-gradient(to top, #57c1eb 0%,#246fa8 100%); }
+
+.cloudy { background: linear-gradient(to top, #c7d0d9 0%, #246fa8 45%, #1e528e 80%); }
+.rain { background: linear-gradient(to top, #85a0ad 0%,#1e528e 70%); }
+.snow { background: linear-gradient(to top, #c7d0d9 20%,#40405c 100%); }
+
+.cloudy-night { background: linear-gradient(to top, #c7d0d9 0%,#40405c 60%, #20202c 100%); }
+.cloudy-night { background: linear-gradient(to top, #85a0ad 0%,#40405c 60%, #20202c 100%); }
+.snow-night { background: linear-gradient(to top, #c7d0d9 0%,#46494f 60%, #20202c 100%); }

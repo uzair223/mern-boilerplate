@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src"
+  },
+  "include": ["src", "src/helpers/axios.js", "src/_theme.js", "src/_history.js"]
+}

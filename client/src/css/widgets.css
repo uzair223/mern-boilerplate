@@ -1,0 +1,24 @@
+.grid-item {
+  overflow: hidden;
+}
+
+.item-header {
+  padding: 0.5rem 1rem;
+  padding-bottom: 0;
+}
+
+.item-body {
+  background: white;
+  height: 100%;
+  border-radius: 16px 16px 0px 0px;
+}
+
+.reminders-bg {
+  background-color: #d9afd9;
+  background-image: linear-gradient(#97d9e1 0%, #d9afd9 100%);
+}
+
+.calendar-bg {
+  background-color: #fbab7e;
+  background-image: linear-gradient(#f7ce68 0%, #fbab7e 100%);
+}
